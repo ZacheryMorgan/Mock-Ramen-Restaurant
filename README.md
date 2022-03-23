@@ -4,4 +4,5 @@ https://zacherymorgan.github.io/Mock-Ramen-Restaurant
 
 Design template using Webpack.
 
-Not at all done.
+Need to design concepts for - 
+contact, drinks and all menu.
